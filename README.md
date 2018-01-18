@@ -17,10 +17,10 @@
 │   └── txt2dic.py txt转dic单词python脚本
 └── txt2dic.sh 运行程序
 ```
-
 ## 使用
-1.使用Adobe DC等程序将文献pdf导出为txt格式<br>
+1. 使用Adobe DC等程序将文献pdf导出为txt格式<br>
 2. 使用记事本打开,另存为UTF8编码(Adobe DC可以直接导出UTF8编码的txt)<br>
+3. 原始txt还可以来自网页等多种格式,最后保存或转码成UTF8的txt都可以
 3. 将文件保存到./INPUT目录<br>
 4. 运行`./txt2dic.sh`<br>
 5. 结果输出在OUTPUT目录<br>
